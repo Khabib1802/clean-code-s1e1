@@ -18,7 +18,8 @@ body {
 }
 
 @media (max-width:768px) {
-  .planning-tip { text-align: center;
+  .planning-tip {
+    text-align: center;
   }
 }
 .task-planner {
